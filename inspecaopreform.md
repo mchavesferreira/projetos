@@ -148,6 +148,19 @@ https://www.youtube.com/watch?v=DgV0BSOUh3s
 Preform Defect Inspection System
 PET PREFORMS OFF-LINE INSPECTION
 
+# Técnicas Emergentes
+
+Desenvolvimentos recentes incluem redes de reconstrução multiescala baseadas em Transformer para detecção de defeitos em imagens infravermelhas, combinando efetivamente técnicas de Transformer e CNN para capturar informações semânticas globais e locais
+
+https://ieeexplore.ieee.org/document/10720055
+.
+Integração com Outros Materiais
+
+Embora este trabalho foque em PET, técnicas similares têm sido aplicadas com sucesso em garrafas de vidro usando SSD MobileNetV2, alcançando 98,07% de precisão geral do sistema
+, demonstrando a transferibilidade das metodologias de deep learning entre diferentes materiais de embalagem.
+
+https://ieeexplore.ieee.org/document/10109368
+
 
 
 [1] https://www.intravis.com/en/products/preform-inspection
