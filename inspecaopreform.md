@@ -106,6 +106,9 @@ https://www.linkedin.com/company/mavisol/posts/?feedView=all
 
 <img src=tela2.png>
 
+https://www.youtube.com/watch?v=fJSexgU6fFI&t
+
+
 Resumo dos Recursos Principais
 
     Detecção e segmentação de cada pré-forma (bounding boxes coloridas).
