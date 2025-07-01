@@ -100,7 +100,33 @@ https://www.linkedin.com/company/mavisol/posts/?feedView=all
 2023 Sprana
 
 
+# pesquisa com IA
 
+<img src=tela1.png>
+
+<img src=tela2.png>
+
+Resumo dos Recursos Principais
+
+    Detecção e segmentação de cada pré-forma (bounding boxes coloridas).
+
+    Classificação de defeitos (rosca, corpo, brilho, ponto de injeção).
+
+    Medições quantitativas em tempo real (número de inclusões, diâmetros, brilho, comprimentos).
+
+    Ajuste fino de tolerâncias e sensibilidades para cada tipo de defeito.
+
+    Registro histórico completo com gráficos de tendência e opção de reset.
+
+    Geração de relatórios automáticos em intervalos configuráveis.
+
+    Captura de imagens de câmeras e das peças aprovadas/rejeitadas.
+
+    Parâmetros de câmera para otimizar exposição e qualidade do contraste.
+
+    Integração com modelos de Deep Learning, para evolução contínua do sistema de inspeção.
+
+Com essa relação, você tem uma visão estruturada de todos os recursos disponíveis e pode planejar tanto os testes em bancada quanto a documentação técnica ou acadêmica do sistema.
 
 
 # Videos
