@@ -122,12 +122,21 @@ PET PREFORMS OFF-LINE INSPECTION
 
 
 [1] https://www.intravis.com/en/products/preform-inspection
+
 [2] https://www.youtube.com/watch?v=DgV0BSOUh3s
+
 [3] https://f.hubspotusercontent-eu1.net/hubfs/24855078/Download%20Files/Preforms/PreMon/intravis-preforms-premon-information-flyer-EN.pdf
+
 [4] https://sacmi.com/en-US/Control-Vision-Systems/Vision-for-Preforms
+
 [5] https://www.pressco.com/applications/plastic-inspection/pet-preforms/
+
 [6] https://www.imdvista.ch/preform-inspection-systems/
+
 [7] https://avicon.pl/en/news/pet-preform-inspection-modern-solution-for-early-detection-of-defects-with-dearly-detection-of-defects-with-deep-learning-algorithms/
+
 [8] https://antaresvisiongroup.com/beverage/products/preform-inspection-qp-700/
+
 [9] https://www.intravis.com/en/blog/preform-inspection-applications
+
 [10] https://www.made-in-china.com/manufacturers/defect-inspection.html
