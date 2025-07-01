@@ -1,6 +1,32 @@
 
 # Inspeção de Pré-formas PET: Empresas, Normas e Tecnologias
 
+Os sistemas de inspeção de defeitos em pré-formas são essenciais para garantir a qualidade na produção de embalagens PET, atuando na detecção precoce de falhas que impactariam garrafas finais. Essas soluções combinam visão artificial, inteligência artificial e automação para inspeção 100% em linha ou offline.  
+
+### Tecnologias e Funcionalidades Principais  
+- **Visão avançada e IA**: Sistemas como o SACMI D.R.I.V.A. utilizam algoritmos de IA e luz polarizada para identificar defeitos microscópicos (como trincas, inclusões e desvios de cor) com precisão superior a métodos convencionais[2][4].  
+- **Controle dimensional**: Medição automática de diâmetro, ovalidade, comprimento e espessura de paredes, garantindo conformidade geométrica[1][5].  
+- **Reconhecimento de cavidade**: Leitura do número de cavidade moldada no gargalo para estatísticas de produção e rastreabilidade[1][4].  
+
+### Tipos de Sistemas  
+| **Configuração**       | **Aplicação**                                                                 | **Exemplos**                     |  
+|-------------------------|-------------------------------------------------------------------------------|----------------------------------|  
+| **Inline**              | Instalados diretamente após máquinas de moldagem por injeção                 | PreMon® (INTRAVIS), PVS-5 (SACMI)[3][4] |  
+| **Offline/Laboratorial**| Análise de lotes com alta precisão                                           | PV002C (SACMI), PECO V3 (IMDvista)[4][6] |  
+| **Monitoramento contínuo** | Inspeção durante transporte para embalagem                                 | PECO LUX (IMDvista)[6]          |  
+
+### Defeitos Detectados  
+- **Superfícies de vedação**: Rachaduras, saddling, contaminação e ovalização[5].  
+- **Corpo da pré-forma**: Pérolas, carbon streak, bolhas e desvios de cor[5][7].  
+- **Ponto de injeção**: Excesso de material, flash e deformações[3][7].  
+
+### Benefícios Operacionais  
+- **Redução de custos**: Eliminação precoce de defeitos evita desperdício no sopro e reduz retrabalho[5][8].  
+- **Flexibilidade**: Troca automática de formato em <1 minuto (SACMI D.R.I.V.A.) e adaptação a diferentes cores/dimensões[2][4].  
+- **Análise preditiva**: Alertas em tempo real via software (INTRAVIS IntraVisualizer®) e relatórios para tomada de decisão[3][7].  
+
+
+
 ## Principais Soluções e Tecnologias de Inspeção
 
 A **inspeção automática de pré-formas PET** é fundamental para garantir a qualidade de garrafas de bebidas. Há diversas empresas líderes que fornecem sistemas de visão mecânica avançados para detectar defeitos em 100% das pré-formas produzidas. Esses sistemas geralmente combinam câmeras de alta resolução, iluminação especial e algoritmos de inteligência artificial (IA) para analisar cada pré-forma em alta velocidade. Por exemplo, a Keye Intelligent (China) oferece máquinas com **até 10–16 câmeras** e algoritmos de IA proprietários, capazes de capturar imagens 360° e identificar uma ampla gama de defeitos de aparência com **precisão acima de 99%**. A Pressco (EUA), por sua vez, desenvolveu módulos escalonáveis que podem ser integrados nas sopradoras (Sidel, Krones, etc.) para remover pré-formas defeituosas antes do sopro – seguindo o lema “**fez uma pré-forma ruim, fará uma garrafa ruim**”. Seus sistemas inspecionam todas as regiões críticas (bocal, corpo, base) e detectam defeitos diversos, desde selos danificados até **contaminação, cor errada e rebarbas no gargalo**.
@@ -37,7 +63,7 @@ Em resumo, o contexto brasileiro exige que **pré-formas PET para bebidas sejam 
 
 **Referências:** As informações acima foram compiladas a partir de fontes especializadas e normativas, incluindo descrições de equipamentos de inspeção de pré-formas, listas de possíveis defeitos detectados pelos sistemas de visão, e diretrizes técnicas e legais brasileiras referentes a embalagens de PET para bebidas. Todas as fontes consultadas estão indicadas ao longo do texto.
 
-# maquinas e Marcas
+# FABRICANTES
 
 Express on-line PET preform defects inspection system based on machine vision and AI technology. 
 https://sprana.eu/ES_Projects.html
@@ -46,23 +72,34 @@ O projeto financiado como Sprana assemelha-se ao comercializado pela Mavisol
 ## keye
 https://www.keyeintelligent.com/product-category/preform-inspection/
 
-## pressco
+- **Pressco**: Integração direta em máquinas de sopro (Krones, Sidel)[5].
 https://www.pressco.com/applications/plastic-inspection/pet-preforms/
 
-## sacmi
+- **SACMI**: Módulos de IA para defeitos visíveis apenas com luz polarizada[4].  
 https://sacmi.com/en-US/Control-Vision-Systems/Vision-for-Preforms
 
-## INTRAVIS 
+- **INTRAVIS**: PreMon® PLUS com ejeção ativa de defeitos durante transporte[3]. 
 INTRAVIS Vision Systems
 
+
+- **AVICON**: Deep Learning para análise de transmissão luminosa e inclusões[7].
+- 
 ## Mavisol
 http://mavisol.com/
 https://www.linkedin.com/company/mavisol/posts/?feedView=all
+
+
+ 
+
+  
+
 
 # imagens
 
 ![Captura de tela de 2025-07-01 10-04-03](https://github.com/user-attachments/assets/ffc033f4-028b-4a7e-830b-4c60a3852c63)
 2023 Sprana
+
+
 
 
 
@@ -75,8 +112,22 @@ https://www.youtube.com/watch?v=GrcRsRRq-K8
 https://www.youtube.com/watch?v=DgV0BSOUh3s
 
 
+
+
 ## termos para pesquisa
 
 Preform Defect Inspection System
+PET PREFORMS OFF-LINE INSPECTION
 
 
+
+[1] https://www.intravis.com/en/products/preform-inspection
+[2] https://www.youtube.com/watch?v=DgV0BSOUh3s
+[3] https://f.hubspotusercontent-eu1.net/hubfs/24855078/Download%20Files/Preforms/PreMon/intravis-preforms-premon-information-flyer-EN.pdf
+[4] https://sacmi.com/en-US/Control-Vision-Systems/Vision-for-Preforms
+[5] https://www.pressco.com/applications/plastic-inspection/pet-preforms/
+[6] https://www.imdvista.ch/preform-inspection-systems/
+[7] https://avicon.pl/en/news/pet-preform-inspection-modern-solution-for-early-detection-of-defects-with-dearly-detection-of-defects-with-deep-learning-algorithms/
+[8] https://antaresvisiongroup.com/beverage/products/preform-inspection-qp-700/
+[9] https://www.intravis.com/en/blog/preform-inspection-applications
+[10] https://www.made-in-china.com/manufacturers/defect-inspection.html
